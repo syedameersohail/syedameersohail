@@ -2,7 +2,7 @@
 
 <h1>Hello 👋</h1>
 
-<h3>👩‍💻 Ameer Sohail | 💡 Associate Data Engineer | 📍 UK</h3>
+<h3>👩‍💻 Ameer Sohail | 💡 Data Scientist | 📍 UK</h3>
 
 </div>
 
